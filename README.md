@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your portfolio website that describes the technologies used and the purpose of the site:
-
-```markdown
 # Portfolio Website
 
 Welcome to my portfolio website! This site showcases my projects, skills, and experiences in the tech industry. It is built using modern web development technologies to ensure a responsive, interactive, and visually appealing user experience.
@@ -28,7 +25,6 @@ To run this portfolio website locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-portfolio.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
