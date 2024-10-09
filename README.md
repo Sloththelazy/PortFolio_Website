@@ -24,7 +24,7 @@ To run this portfolio website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+   git clone https://github.com/Sloththelazy/PortFolio_Website.git
 
 2. Navigate to the project directory:
    ```bash
@@ -48,13 +48,3 @@ To run this portfolio website locally, follow these steps:
 Thank you for visiting my portfolio! I hope you find it informative and engaging. Feel free to reach out to me through the contact information provided on the website for any inquiries or collaboration opportunities.
 
 ---
-
-**Note:** Remember to replace the placeholder `https://github.com/yourusername/your-portfolio.git` with the actual URL of your GitHub repository.
-```
-
-### How to Use:
-- Copy the text above and paste it into a file named `README.md` in the root directory of your project.
-- Customize any specific sections as needed, particularly the features or any other information that you think would be beneficial to include.
-- This `README` file provides clear instructions and details about your portfolio website, making it easier for others (and yourself) to understand the project.
-
-Let me know if you need any more modifications or additional sections!
