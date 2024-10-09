@@ -95,6 +95,7 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
         </div>
       </div>
     </Bounded>
+
   );
 };
 
