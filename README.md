@@ -9,7 +9,7 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 - **Next.js**: A React framework that enables server-side rendering and static site generation, improving performance and SEO.
 - **React Three Fiber**: A React renderer for Three.js, allowing for 3D graphics to be rendered within a React application, enhancing the visual experience of the portfolio.
 - **Tailwind CSS**: A utility-first CSS framework that allows for rapid styling and custom design without leaving the HTML.
-- **Prismic**: A headless CMS that allows for easy content management and dynamic content updates without needing to deploy the website each time.
+
 
 ## Features
 
